@@ -1,13 +1,6 @@
 ---
-description: 请问请问
+description: windows系统激活密钥分享
 ---
 
-# 预备周：基于认知科学的信息训练法
-
-```text
-微软  
-体育
-```
-
-{% page-ref page="./" %}
+# windows系统激活密钥分享
 

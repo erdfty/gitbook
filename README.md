@@ -1,16 +1,8 @@
 ---
-description: '123123'
+description: 知书简介
 ---
 
-# Introduction
+# 知书简介
 
-测试
-
-{% page-ref page="./" %}
-
-{% page-ref page="./" %}
-
-{% file src=".gitbook/assets/g68-ge-men-pai-shi-men-ji-neng-ying-xiao-zi-liao-1.xlsx" caption="点击下载" %}
-
-
+这是自己的一些个人的经验分享和软件分享，大家可以自己搜索自己需要的东西，各取所需。
 

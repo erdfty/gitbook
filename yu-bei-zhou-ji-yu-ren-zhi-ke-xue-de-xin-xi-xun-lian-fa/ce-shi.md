@@ -1,68 +1,120 @@
-# 测试
+---
+description: 2019年4月win10免费激活密钥 最新win10激活码序列号
+---
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
-{% api-method-summary %}
-Get Cakes
-{% endapi-method-summary %}
+# 2019年4月win10免费激活密钥 最新win10激活码序列号
 
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
+**win10系统序列号密钥：**
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+NPPR9-FWDCX-D2C8J-H872K-2YT43
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
+W269N-WFGWX-YVC9B-4J6C9-T83GX
 
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+NYW94-47Q7H-7X9TT-W7TXD-JTYPM
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
+NJ4MX-VQQ7Q-FP3DB-VDGHX-7XM87
 
-```javascript
-{
-    "name": "Cake's name",
-    "recipe": "Cake's recipe name",
-    "cake": "Binary cake"
-}
-```
-{% endapi-method-response-example %}
+MH37W-N47XK-V7XM9-C7227-GCQG9
 
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
 
-```javascript
-{
-    "message": "Ain't no cake like that."
-}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+**win10专业版官网激活码密钥 \(32位、64位通用\)：**
 
+2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
 
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+
+2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+
+WGGHN-J84D6-QYCPR-T7PJ7-X766F
+
+84NGF-MHBT6-FXBX8-QWJK7-DRR8H
+
+FWN7H-PF93Q-4GGP8-M8RF3-MDWW
+
+BT79Q-G7N6G-PGBYW-4YWX6-6F4BT
+
+MH37W-N47XK-V7XM9-C7227-GCQG9
+
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+NYW94-47Q7H-7X9TT-W7TXD-JTYPM
+
+NJ4MX-VQQ7Q-FP3DB-VDGHX-7XM87
+
+JPYNJ-XTFCR-372YJ-YJJ4Q-G83YB
+
+R3BYW-CBNWT-F3JTP-FM942-BTDXY
+
+KTNPV-KTRK4-3RRR8-39X6W-W44T3
+
+8N67H-M3CY9-QT7C4-2TR7M-TXYCV
+
+CKFK9-QNGF2-D34FM-99QX3-8XC4K
+
+JPYNH-XTFCR-372YJ-YJJ3Q-G83YB
+
+R3BYW-CBNWT-F3JTP-FM942-BTDXY
+
+NKJFK-GPHP7-G8C3J-P6JXR-HQRJR
+
+NJ4MX-VQQ7Q-FP3DB-VDGHX-7XM87
+
+MH37W-N47XK-V7XM9-C7227-GCQG9
+
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+RNP9C-WY3PM-8WG94-WT8Q9-7XMPF
+
+GC42Q-XHW4P-6HKVD-D3839-P6W8B
+
+NJ4MX-VQQ7Q-FP3DB-VDGHX-7XM87
+
+MH37W-N47XK-V7XM9-C7227-GCQG9
+
+VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+X9NV3-MCH4F-M3G24-2PKR2-BTDT3
+
+W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+**激活方法：**
+
+系统安装完毕后，首先以管理员身份打开CMD命令行窗口，按下Win+X，选择命令提示符\(管理员\)。
+
+说明：kms.xspace.in是kms服务器地址，可能会失效，如果激活失败，可以自行搜索kms服务器地址，将kms.xspace.in替换成新的地址即可，比如换成kms.03k.org，参考可用的kms激活服务器有哪些
+
+Win10专业版用户请依次输入：
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr /skms kms.03k.org
+
+slmgr /ato
+
+Win10企业版用户请依次输入：
+
+slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+slmgr /skms kms.03k.org
+
+slmgr /ato 
+
+Win10家庭版用户依次输入：
+
+slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+
+slmgr /skms kms.03k.org
+
+slmgr /ato
+
+Win10激活密钥key激活次数有限制，不能保证100%激活成功，大家用密钥如果没有激活可以用激活工具激活，成功率更高。
+
+激活步骤参考：[https://blog.csdn.net/erdfty/article/details/86076477](https://blog.csdn.net/erdfty/article/details/86076477)
 
